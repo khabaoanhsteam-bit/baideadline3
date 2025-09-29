@@ -1,4 +1,4 @@
-@media only screen and (min-width: 758px) and (max-width: 1300 px) {
+@media only screen and (min-width: 758px) and (max-width: 1300px) {
     html {
         font-size: 20px;
         font-family: "Be Vietnam Pro", sans-serif;
@@ -103,4 +103,5 @@
         margin: 0 auto;
     }
 }
+
 
