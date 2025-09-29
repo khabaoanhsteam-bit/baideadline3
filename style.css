@@ -95,7 +95,7 @@ footer .container.footer {
   height: 100%;
   padding: 0;                   
 }
-@media (min-width: 1245px) {
+@media (min-width: 1301px) {
   .section:nth-of-type(2) .inner-section {
         display: flex;
         justify-content: space-between;
@@ -103,3 +103,4 @@ footer .container.footer {
         row-gap: 30px;
     }
 }
+
